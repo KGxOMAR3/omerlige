@@ -8,3 +8,5 @@
 omerlige/omerlige is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+safe zone/ban all pepole shot in safe zone
+charekter movement/motion cpture in game
